@@ -23,6 +23,7 @@ Main Dashboard Layout:
 
 
 Total Purchases, AOV & Cart Abandonment KPIs per month:
+
 October 2019:
 
 <img width="502" height="474" alt="Oct 2019" src="https://github.com/user-attachments/assets/56247fde-150b-4c2f-a564-3945794d9f67" />
