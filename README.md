@@ -22,12 +22,14 @@ Main Dashboard Layout:
 <img width="1926" height="1103" alt="Screenshot (2610)" src="https://github.com/user-attachments/assets/c45ba773-d0f9-405b-a072-ac2d7f829fca" />
 
 
-AOV & Cart Abandonment KPIs:
+Total Purchases, AOV & Cart Abandonment KPIs per month:
 October 2019:
+
 <img width="502" height="474" alt="Oct 2019" src="https://github.com/user-attachments/assets/56247fde-150b-4c2f-a564-3945794d9f67" />
 
 April 2020:
-<img width="500" height="465" alt="April 2020" src="https://github.com/user-attachments/assets/a279d815-8fa8-437c-a743-c744224ca4a0" />
+
+<img width="508" height="483" alt="Screenshot (2617)" src="https://github.com/user-attachments/assets/54fc4497-9069-4029-9b4b-a9ff252b1527" />
 
 
 # Data Cleaning Process:
